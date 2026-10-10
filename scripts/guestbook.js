@@ -68,6 +68,7 @@
     .wedding-map-link {
       position: absolute;
       inset: 0;
+      transform: translateY(10px);
       display: flex;
       width: 100%;
       height: 100%;
@@ -98,6 +99,17 @@
       box-shadow: none !important;
       outline: none !important;
       filter: none !important;
+    }
+    div[data-node-id="CKmU0S7mgD"],
+    div[data-node-id="CKmU0S7mgD"] > div,
+    div[data-node-id="CKmU0S7mgD"] > div > div,
+    div[data-node-id="CKmU0S7mgD"] [contenteditable="false"] {
+      height: auto !important;
+    }
+    div[data-node-id="CKmU0S7mgD"] [contenteditable="false"] {
+      white-space: pre-line !important;
+      line-height: 1.5 !important;
+      overflow: visible !important;
     }
   `;
   document.head.appendChild(style);
@@ -157,7 +169,6 @@
     "groomMother",
     "brideFather",
     "brideMother",
-    "venueAddressDisplay",
     "brideProfileHometown",
     "groomProfileHometown"
   ]);
