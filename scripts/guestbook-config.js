@@ -1,7 +1,7 @@
 window.WEDDING_GUESTBOOK_ENDPOINT = "https://script.google.com/macros/s/AKfycbyLyRKn1I8H6iJT7OucN3hii8xYJZeYW27w-lBTuL-ZHkJKFKv0MF9HYT5WEm33pdU/exec";
 // Đường dẫn tương đối tới file nhạc trong thư mục music.
 window.WEDDING_MUSIC_URL = "music/chuynn.mp3";
-window.WEDDING_MAP_URL = "https://maps.app.goo.gl/jFFCwFGxqjz5EzXR7?g_st=iz";
+window.WEDDING_MAP_URL = "https://www.google.com/maps?q=20.8318230,105.8057480&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821555,47071704,94218641,94282134,100835694,94286869,100820247,100822504,100838877,121816461&g_ep=CAISEjI2LjQwLjMuOTg5Mjk1MzUwMBgAIIgnKnssOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsMTAwODIxNTU1LDQ3MDcxNzA0LDk0MjE4NjQxLDk0MjgyMTM0LDEwMDgzNTY5NCw5NDI4Njg2OSwxMDA4MjAyNDcsMTAwODIyNTA0LDEwMDgzODg3NywxMjE4MTY0NjFCAlZO&skid=7695b9a8-a29f-4cb9-bf40-e122cf705a73&g_st=ic&g_st=ic";
 
 // Sửa thông tin thiệp tại đây. Với các đoạn văn bên dưới, giữ nguyên "match"
 // và chỉ sửa nội dung trong "text".
