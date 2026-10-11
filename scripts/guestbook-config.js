@@ -18,7 +18,7 @@ window.WEDDING_INFO = {
   brideParentsHeading: "Nhà Gái",
   brideFather: "Ông : Nghiêm Phú Thắng",
   brideMother: "Bà : Vũ Thị Thảo",
-  brideFullName: "Nguyễn Ngọc Vân",
+  brideFullName: "Nghiêm Ngọc Vân",
   groomFullName: "Nguyễn Trung Tuyển",
   brideHometown: "TP. Hà Nội",
   groomHometown: "TP. Hà Nội",
