@@ -23,7 +23,7 @@ window.WEDDING_INFO = {
   brideHometown: "TP. Hà Nội",
   groomHometown: "TP. Hà Nội",
   receptionTitle: "Tiệc mừng lễ thành hôn",
-  ceremonyTime: "Vào lúc 17:30 thứ bảy",
+  ceremonyTime: "Vào lúc 17:00 thứ bảy",
   monthLabel: "Tháng 10",
   weddingDay: "24",
   lunarDate: "(Tức ngày 15 tháng 9 âm Bính Ngọ)",
